@@ -4,8 +4,8 @@ import PrimaryBtn from '../../Utility/PrimaryBtn'
 
 const Navbar = () => {
   return (
-    <nav className='container pt-2.5 bg-primary'>
-      <div className='flex justify-between items-center'>
+    <nav className=' pt-2.5 bg-primary'>
+      <div className='container flex justify-between items-center'>
 
       
       <div>
