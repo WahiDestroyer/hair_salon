@@ -54,7 +54,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div>
-        <PrimaryBtn/>
+        <PrimaryBtn lakha="Contact Us"/>
       </div>
       </div>
     </nav>
